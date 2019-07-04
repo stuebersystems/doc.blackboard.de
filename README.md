@@ -2,7 +2,7 @@
 
 # CONFIRE BLACKBOARD Dokumentation
 
-Dies ist die deutsche Dokumentation zu CONFIRE BLACKBOARD. Die Dokumentation ist Open Source und wir haben sie mit [GitBook](https://github.com/GitbookIO/gitbook) realisiert. Push-Requests im master-branch werden in [AppVeyor](https://www.appveyor.com) getriggert, so dass jede Änderung automatisch veröffentlicht wird.
+Dies ist die deutsche Dokumentation zu CONFIRE BLACKBOARD. Die Dokumentation ist Open Source und wir haben sie mit [GitBook](https://github.com/GitbookIO/gitbook) realisiert.
 
 > ## Wichtiger Hinweis:
 > Die hier verwendete Open Source-Version von GitBook wird nicht mehr weiterentwickelt. Die aktuelle Version von GitBook ist nicht Open Source. 
