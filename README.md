@@ -7,7 +7,7 @@ Dies ist die deutsche Dokumentation zu CONFIRE BLACKBOARD. Die Dokumentation ist
 > ## Wichtiger Hinweis:
 > Die hier verwendete Open Source-Version von GitBook wird nicht mehr weiterentwickelt. Die aktuelle Version von GitBook ist nicht Open Source. 
 
-## Giitbook unter Windows installieren
+## Gitbook unter Windows installieren
 
 1. Du musst zunächst [node.js installieren](https://nodejs.org/de/download). Node.js enthält bereits den Package Manager npm.
 
