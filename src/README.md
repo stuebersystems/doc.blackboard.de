@@ -4,7 +4,7 @@ Dies ist die elektronische Dokumentation zu CONFIRE BLACKBOARD.
 
 > #### info::Hinweis
 >
-> Der Nachfolger von CONFIRE BLACKBOARD heisst CONFIRE SHOWTIME. Alle Infos zu CONFIRFE SHOWTIME finden Sie unter [showtime.stueber.de](http://showtime.stueber.de)
+> Der Nachfolger von CONFIRE BLACKBOARD heisst CONFIRE SHOWTIME. Alle Infos zu CONFIRFE SHOWTIME finden Sie unter [showtime.stueber.de](https://showtime.stueber.de)
 
 ## Inhalte
 
