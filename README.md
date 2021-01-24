@@ -1,5 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/2mr3a243jsl6oifu?svg=true)](https://ci.appveyor.com/project/stueber/doc-blackboard-de)
-
 # CONFIRE BLACKBOARD Dokumentation
 
 Dies ist die deutsche Dokumentation zu CONFIRE BLACKBOARD. Die Dokumentation ist Open Source und wir haben sie mit [GitBook](https://github.com/GitbookIO/gitbook) realisiert.
